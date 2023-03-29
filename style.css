@@ -1,0 +1,29 @@
+body {
+    color: lightgoldenrodyellow;
+    background-image: url('file:///storage/91A8-5A0E/Download/IMG_1169-1.png');
+    
+}
+h1 {
+    color: blueviolet;
+    text-align: center;
+}
+.button {
+        display: inline-block;
+        padding: 10px 20px;
+        font-size: 16px;
+        text-align: center;
+        text-decoration: none;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+}
+img {
+    border: none;
+    border-radius: 50px 50px 50px 50px;
+}
+
+. {
+    
+}
